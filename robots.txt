@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://radlousque.github.io/sitemap.html.gz
+Sitemap: https://radlousque.github.io/app/sitemap.html.gz
+Sitemap: https://radlousque.github.io/assets/sitemap.html.gz
+Sitemap: https://radlousque.github.io/css/sitemap.html.gz
+Sitemap: https://radlousque.github.io/includes/sitemap.html.gz
+Sitemap: https://radlousque.github.io/item/sitemap.html.gz
+Sitemap: https://radlousque.github.io/src/sitemap.html.gz
